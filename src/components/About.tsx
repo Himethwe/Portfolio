@@ -28,7 +28,7 @@ export default function About() {
           {/* Secondary Image 1 */}
           <div className="h-57.5 rounded-4xl overflow-hidden relative border border-gray-800/50">
             <img
-              src="src\assets\cert_get.jpeg"
+              src="/cert_get.jpeg"
               alt="Receiving Award"
               className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500"
             />
@@ -36,7 +36,7 @@ export default function About() {
           {/* Secondary Image 2 */}
           <div className="h-57.5 rounded-4xl overflow-hidden relative border border-gray-800/50 flex items-center justify-center">
             <img
-              src="src\assets\WhatsApp Image 2026-04-09 at 11.17.50 PM.jpeg"
+              src="/WhatsApp Image 2026-04-09 at 11.17.50 PM.jpeg"
               alt="Himeth Weerakkody"
               className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500"
             />
