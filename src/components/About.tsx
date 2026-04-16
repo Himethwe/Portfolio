@@ -20,7 +20,7 @@ export default function About() {
           {/* Main Large Image */}
           <div className="col-span-2 h-82.5 rounded-4xl overflow-hidden relative border border-gray-800/50">
             <img
-              src="src\assets\explain.jpeg"
+              src="/explain.jpeg"
               alt="Presenting Data Project"
               className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500"
             />
