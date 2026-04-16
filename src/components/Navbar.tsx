@@ -1,13 +1,5 @@
 import { useState, useEffect } from "react";
-import {
-  Home,
-  User,
-  Terminal,
-  Folder,
-  Briefcase,
-  Mail,
-  Compass,
-} from "lucide-react";
+import { Home, User, Terminal, Folder, Mail, Compass } from "lucide-react";
 
 export default function Navbar() {
   const [activeSection, setActiveSection] = useState("home");
