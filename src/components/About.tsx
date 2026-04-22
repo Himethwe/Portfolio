@@ -73,7 +73,7 @@ export default function About() {
 
             {/* Resume Button */}
             <a
-              href="\Himeth_0022.pdf"
+              href="\Himeth_0022_V2.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="group inline-flex items-center gap-2.5 px-6 py-2.5 rounded-full border-2 border-gray-700 text-gray-300 font-medium text-base tracking-wide hover:text-[#3B82F6] hover:border-[#3B82F6] transition-all duration-300"
