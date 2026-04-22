@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import profilePic from "../assets/headshot_edited.png";
+import profilePic from "../assets/headshot_edit_v2.png";
 import Typewriter from "./Typewriter";
 
 // Clean, lightweight SVG components to replace the removed Lucide brand icons
